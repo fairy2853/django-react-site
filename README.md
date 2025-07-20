@@ -1,4 +1,7 @@
-to start this project you need to write in terminal 
+to start this project you need to create 2 env files 
+one in frontend directory and second in backend directory 
+and copy all from example files 
+than write in terminal 
 
 docker compose --env-file ./backend/.env up --build 
 
